@@ -58,7 +58,6 @@ class AlphavantageService:
 
 
 
-
 if __name__ == "__main__":
 
     alpha = AlphavantageService()
